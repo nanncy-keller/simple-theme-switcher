@@ -8,6 +8,11 @@ This project is a fundamental web application developed during a course at [**Br
 <p align="center">
   <img src="picture.png" alt="Simple Theme Switcher Preview" width="500">
 </p>
+<p align="center">
+  <a href="https://nanncy-keller.github.io/simple-theme-switcher" target="_blank">
+    🚀 <strong>Click here to try Simple Theme Switcher Live!</strong>
+  </a>
+</p>
 
 ---
 
