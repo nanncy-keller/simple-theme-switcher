@@ -1,5 +1,11 @@
 # 🐠 Simple Theme Switcher
 
+> **Language / Idioma**
+>
+> 🇺🇸 **English (Current)** | [🇧🇷 Português](./README.pt-br.md)
+
+---
+
 As a student, I'm always looking for something new to practice and I really love free courses that are available all over the Web. So I decided to take this one about "themes toggling" to practice CSS and JS and afterward try to build a new project more complex and useful having this one as a base (this is a project for another day).
 
 This project is a fundamental web application developed during a course at [**Bradesco Foundation (Fundação Bradesco)**](https://www.ev.org.br/). It represents my early steps in learning how to manipulate the DOM and manage styles dynamically.
