@@ -20,17 +20,23 @@ Este projeto é uma aplicação web fundamental desenvolvida durante um curso na
   </a>
 </p>
 
+---
+
 ### ✨ Funcionalidades
 
 * **Temas Claro e Escuro:** Alterne entre dois modos visuais com um único clique.
 * **Variáveis CSS:** Gerenciamento eficiente de cores usando variáveis `:root`.
 * **Lógica Responsiva:** Implementação de JavaScript simples e limpa.
 
+---
+
 ### 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Estrutura básica para a lista de tarefas.
 * **CSS3:** Estilização e definições de temas (`light-theme` vs `dark-theme`).
 * **JavaScript:** Manipulação do evento de clique e alternância de classes.
+
+  ---
 
 ### 🦈 Evolução
 
