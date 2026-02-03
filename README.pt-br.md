@@ -22,7 +22,7 @@ Este projeto é uma aplicação web fundamental desenvolvida durante um curso na
 
 ---
 
-### ✨ Funcionalidades
+## ✨ Funcionalidades
 
 * **Temas Claro e Escuro:** Alterne entre dois modos visuais com um único clique.
 * **Variáveis CSS:** Gerenciamento eficiente de cores usando variáveis `:root`.
@@ -30,7 +30,7 @@ Este projeto é uma aplicação web fundamental desenvolvida durante um curso na
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Estrutura básica para a lista de tarefas.
 * **CSS3:** Estilização e definições de temas (`light-theme` vs `dark-theme`).
@@ -38,7 +38,7 @@ Este projeto é uma aplicação web fundamental desenvolvida durante um curso na
 
   ---
 
-### 🦈 Evolução
+## 🦈 Evolução
 
 Este projeto foi a inspiração central para meus projetos maiores e mais complexos, como o **StyleMix**, onde levei esses conceitos de temas para um nível profissional!
 
